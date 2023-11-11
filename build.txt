@@ -1,0 +1,3 @@
+displayName = 灾厄东方风音乐包 Calamity Touhou Music
+author = 天琈紫菀 & Furgo
+version = 0.1
