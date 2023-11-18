@@ -54,6 +54,11 @@ Configs: {
 			Tooltip: ""
 		}
 
+		Title: {
+			Label: 灾厄标题音乐
+			Tooltip: ""
+		}
+
 		EnableAll: {
 			Label: 开启全部
 			Tooltip: ""

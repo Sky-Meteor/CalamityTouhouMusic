@@ -17,4 +17,6 @@ public static class CTMUtil
 
     public const string SunkenSea = "SunkenSea";
     public const string Blizzard = "Blizzard";
+
+    public const string Title = "Title";
 }

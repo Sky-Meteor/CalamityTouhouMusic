@@ -54,6 +54,11 @@ Configs: {
 			Tooltip: ""
 		}
 
+		Title: {
+			Label: Calamity Style Title
+			Tooltip: ""
+		}
+
 		EnableAll: {
 			Label: Enable All
 			Tooltip: ""
