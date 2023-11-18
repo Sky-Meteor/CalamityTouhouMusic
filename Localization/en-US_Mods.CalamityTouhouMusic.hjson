@@ -1,1 +1,67 @@
-# This file will automatically update with entries for new content after a build and reload
+Configs: {
+	CTMConfig: {
+		DisplayName: Calamity Touhou Music Config
+
+		Headers: {
+			Boss: Boss
+			Biome: Biome
+			Environment: Environment
+			Misc: Misc Header
+		}
+
+		AstrumAureus: {
+			Label: Astrum Aureus
+			Tooltip: ""
+		}
+
+		BrimstoneElemental: {
+			Label: Brimstone Elemental
+			Tooltip: ""
+		}
+
+		Crabulon: {
+			Label: Crabulon
+			Tooltip: ""
+		}
+
+		DesertScourge: {
+			Label: Desert Scourge
+			Tooltip: ""
+		}
+
+		PlaguebringerGoliath: {
+			Label: Plaguebringer Goliath
+			Tooltip: ""
+		}
+
+		Ravager: {
+			Label: Ravager
+			Tooltip: ""
+		}
+
+		StormWeaver: {
+			Label: Storm Weaver
+			Tooltip: ""
+		}
+
+		SunkenSea: {
+			Label: Sunken Sea
+			Tooltip: ""
+		}
+
+		Blizzard: {
+			Label: Blizzard
+			Tooltip: ""
+		}
+
+		EnableAll: {
+			Label: Enable All
+			Tooltip: ""
+		}
+
+		DisableAll: {
+			Label: Disable All
+			Tooltip: ""
+		}
+	}
+}

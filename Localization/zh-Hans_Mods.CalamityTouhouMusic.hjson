@@ -1,0 +1,67 @@
+Configs: {
+	CTMConfig: {
+		DisplayName: 灾厄东方风音乐包模组配置
+
+		Headers: {
+			Boss: Boss
+			Biome: 生物群落
+			Environment: 环境
+			Misc: 杂项
+		}
+
+		AstrumAureus: {
+			Label: 白金星舰
+			Tooltip: ""
+		}
+
+		BrimstoneElemental: {
+			Label: 硫磺火元素
+			Tooltip: ""
+		}
+
+		Crabulon: {
+			Label: 菌生蟹
+			Tooltip: ""
+		}
+
+		DesertScourge: {
+			Label: 荒漠灾虫
+			Tooltip: ""
+		}
+
+		PlaguebringerGoliath: {
+			Label: 瘟疫使者歌莉娅
+			Tooltip: ""
+		}
+
+		Ravager: {
+			Label: 毁灭魔像
+			Tooltip: ""
+		}
+
+		StormWeaver: {
+			Label: 风暴编织者
+			Tooltip: ""
+		}
+
+		SunkenSea: {
+			Label: 沉沦之海
+			Tooltip: ""
+		}
+
+		Blizzard: {
+			Label: 暴风雪
+			Tooltip: ""
+		}
+
+		EnableAll: {
+			Label: 开启全部
+			Tooltip: ""
+		}
+
+		DisableAll: {
+			Label: 关闭全部
+			Tooltip: ""
+		}
+	}
+}
