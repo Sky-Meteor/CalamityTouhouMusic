@@ -11,16 +11,16 @@ public class CTMConfig : ModConfig
 
     [Header("Boss")]
     [DefaultValue(true)]
-    public bool AstrumAureus;
-
-    [DefaultValue(true)]
-    public bool BrimstoneElemental;
+    public bool DesertScourge;
 
     [DefaultValue(true)]
     public bool Crabulon;
 
     [DefaultValue(true)]
-    public bool DesertScourge;
+    public bool BrimstoneElemental;
+
+    [DefaultValue(true)]
+    public bool AstrumAureus;
 
     [DefaultValue(true)]
     public bool PlaguebringerGoliath;
