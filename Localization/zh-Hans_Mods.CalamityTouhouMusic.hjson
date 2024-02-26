@@ -69,4 +69,11 @@ Configs: {
 			Tooltip: ""
 		}
 	}
+
+	TitleType: {
+		Tooltip: ""
+		Title1.Label: 标题音乐1
+		Title2.Label: 标题音乐2
+		Off.Label: 关
+	}
 }

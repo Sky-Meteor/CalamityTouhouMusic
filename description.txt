@@ -1,1 +1,94 @@
-灾厄东方风音乐包 Calamity Touhou Music is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+东方风灾厄音乐包-CalamityTouhouMusic
+-
+本音乐包计划实现（包括但不限于）官方灾厄音乐包中所有曲目的东方风arrange，目前仍处于更新状态。
+This music pack plans to implement (including but not limited to) Touhou remix of all tracks in the official Calamity music pack, which is still being updated.
+-
+音乐包所使用的音乐均系东方二次同人，遵守包括《东方同人规约》在内的相关法律法规。
+The tracks used in the music pack are recreation Doujin of Touhou, and complies with relevant laws and regulations, including the Touhou project guidelines.
+-
+如果有什么疑问，欢迎加入交流群：243847605
+-
+Credits
+
+编曲：天琈紫菀（Tenshion）
+程序：Furgo
+And special thanks to all friends who support this music pack.
+-
+曲目列表：
+
+昔时之海的守卫
+Guardian of the Former Seas
+荒漠灾虫主题曲
+Theme of Desert Scourge
+Original: Guardian of the Former Seas - DM DOKURO
+
+深蓝群系所带来的黑暗
+The Darkness Brought In by Glowing Mushroom Biome
+菌生蟹主题曲
+Theme of Crabulon
+Original: 1NF3$+@+!0N - DM DOKURO
+              燕石博物誌が連れてきた闇 - ZUN
+
+硫火安魂曲
+Lullaby of Brimstone Flames
+硫磺火元素主题曲
+Theme of Brimstone Elemental
+Original: Left Alone - DM DOKURO
+              廃獄ララバイ - ZUN
+
+星际践踏　～ G Normalize
+Interstellar Stomper　～ G Normalize
+白金星舰主题曲
+Theme of Astrum Aureus
+Original: Interstellar Stomper - DM DOKURO
+              天空のグリニッジ - ZUN
+
+疫蜂飞舞　～ Fly of Beelzebub
+the Flight of the Plague Bee　～ Fly of Beelzebub
+瘟疫使者歌莉娅主题曲
+Theme of Plaguebringer Goliath
+Original: Fly of Beelzebub - DM DOKURO
+              Stinging Onslaught - Turquoise
+              ハルトマンの妖怪少女 - ZUN
+              MEGALOVANIA - Toby Fox
+
+维苏威晶簇　～ Open Frenzy
+Vesuvius Geode　～ Open Frenzy
+毁灭魔像主题曲
+Theme of Ravager
+Original: Open Frenzy - DM DOKURO
+
+风暴编织者　～ Weaver of the Scourge
+Storm Weaver　～ Weaver of the Scourge
+风暴编织者主题曲
+Theme of Storm Weaver
+Original: Servants of the Scourge(Type W) - DM DOKURO
+              有頂天変　～ Wonderful Heaven - ZUN
+
+日渐荒废的海洋遗址
+The Obsolescent Oceanic Remains
+沉沦之海主题曲
+Theme of Sunken Sea
+Original: sanctuary - DM DOKURO
+              廃れゆく産業遺構 - ZUN
+
+幻想的冬之港湾
+Illusionary Harbor of Winter
+暴风雪主题曲
+Theme of Blizzard
+Original: Cold Front - Turquoise
+              春の湊に - ZUN
+              Antarctic Reinforcement - DM DOKURO
+
+残酷世界之传说
+The Tale of a Cruel World
+标题画面主题曲
+Theme1 of Title
+Original: The Tale of a Cruel World - DM DOKURO
+
+灾厄收藏家的午后
+The Calamity Collector's Afternoon
+标题画面主题曲
+Theme2 of Title
+Original: The Tale of a Cruel World - DM DOKURO
+              コレクターの憂鬱な午後 - ZUN

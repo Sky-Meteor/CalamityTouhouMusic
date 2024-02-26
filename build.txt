@@ -1,6 +1,6 @@
 displayName = 灾厄东方风音乐包 Calamity Touhou Music
 author = 天琈(Tenshion) & Furgo
-version = 0.1
+version = 0.1.1
 modReferences = CalamityMod
 buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, lib\*, .git\*, BuildIgnore
 hideResources = true

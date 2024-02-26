@@ -69,4 +69,11 @@ Configs: {
 			Tooltip: ""
 		}
 	}
+
+	TitleType: {
+		Tooltip: ""
+		Title1.Label: Title 1
+		Title2.Label: Title 2
+		Off.Label: Off
+	}
 }

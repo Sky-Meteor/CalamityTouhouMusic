@@ -40,13 +40,13 @@ public class CTMConfig : ModConfig
     public bool Blizzard;
 
     [Header("Misc")]
-    [DefaultValue(true)]
+    [DefaultValue(TitleType.Title1)]
     [ReloadRequired]
-    public bool Title;
+    public TitleType Title;
 
     public bool EnableAll
     {
-        get => AstrumAureus && BrimstoneElemental && Crabulon && DesertScourge && PlaguebringerGoliath && Ravager && StormWeaver && SunkenSea && Blizzard && Title;
+        get => AstrumAureus && BrimstoneElemental && Crabulon && DesertScourge && PlaguebringerGoliath && Ravager && StormWeaver && SunkenSea && Blizzard && Title != TitleType.Off;
         set
         {
             if (value)
@@ -60,13 +60,14 @@ public class CTMConfig : ModConfig
                 StormWeaver = true;
                 SunkenSea = true;
                 Blizzard = true;
-                Title = true;
+                if (Title == TitleType.Off)
+                    Title = TitleType.Title1;
             }
         }
     }
     public bool DisableAll
     {
-        get => !(AstrumAureus || BrimstoneElemental || Crabulon || DesertScourge || PlaguebringerGoliath || Ravager || StormWeaver || SunkenSea || Blizzard || Title);
+        get => !(AstrumAureus || BrimstoneElemental || Crabulon || DesertScourge || PlaguebringerGoliath || Ravager || StormWeaver || SunkenSea || Blizzard || Title != TitleType.Off);
         set
         {
             if (value)
@@ -80,7 +81,7 @@ public class CTMConfig : ModConfig
                 StormWeaver = false;
                 SunkenSea = false;
                 Blizzard = false;
-                Title = false;
+                Title = TitleType.Off;
             }
         }
     }

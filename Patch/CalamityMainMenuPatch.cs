@@ -6,7 +6,7 @@ namespace CalamityTouhouMusic.Patch;
 
 public class CalamityMainMenuPatch : ModSystem
 {
-    public override bool IsLoadingEnabled(Mod mod) => CTMConfig.Instance().Title;
+    public override bool IsLoadingEnabled(Mod mod) => CTMConfig.Instance().Title != TitleType.Off;
 
     private Hook _hook;
     public override void Load()
@@ -21,5 +21,5 @@ public class CalamityMainMenuPatch : ModSystem
         _hook = null;
     }
 
-    private static int GetMusic(CalamityMainMenu self) => CTMUtil.GetMusicSlot(CTMUtil.Title);
+    private static int GetMusic(CalamityMainMenu self) => CTMUtil.GetMusicSlot(CTMConfig.Instance().Title.ToString());
 }
