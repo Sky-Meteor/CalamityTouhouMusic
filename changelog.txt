@@ -1,0 +1,2 @@
+make it a client side mod
+allowed to extract resource with Extract button in Mods List
