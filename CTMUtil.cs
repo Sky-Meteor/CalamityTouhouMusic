@@ -16,7 +16,9 @@ public static class CTMUtil
     public const string StormWeaver = "StormWeaver";
 
     public const string SunkenSea = "SunkenSea";
-    public const string Blizzard = "Blizzard";
+    public const string AbyssLayer1 = "AbyssLayer1";
+
+	public const string Blizzard = "Blizzard";
 
     public const string Title = "Title";
 }

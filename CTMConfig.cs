@@ -35,7 +35,10 @@ public class CTMConfig : ModConfig
     [DefaultValue(true)]
     public bool SunkenSea;
 
-    [Header("Environment")]
+    [DefaultValue(true)]
+    public bool AbyssLayer1;
+
+	[Header("Environment")]
     [DefaultValue(true)]
     public bool Blizzard;
 
@@ -46,7 +49,7 @@ public class CTMConfig : ModConfig
 
     public bool EnableAll
     {
-        get => AstrumAureus && BrimstoneElemental && Crabulon && DesertScourge && PlaguebringerGoliath && Ravager && StormWeaver && SunkenSea && Blizzard && Title != TitleType.Off;
+        get => AstrumAureus && BrimstoneElemental && Crabulon && DesertScourge && PlaguebringerGoliath && Ravager && StormWeaver && SunkenSea && AbyssLayer1 && Blizzard && Title != TitleType.Off;
         set
         {
             if (value)
@@ -59,7 +62,8 @@ public class CTMConfig : ModConfig
                 Ravager = true;
                 StormWeaver = true;
                 SunkenSea = true;
-                Blizzard = true;
+                AbyssLayer1 = true;
+				Blizzard = true;
                 if (Title == TitleType.Off)
                     Title = TitleType.Title1;
             }
@@ -67,7 +71,7 @@ public class CTMConfig : ModConfig
     }
     public bool DisableAll
     {
-        get => !(AstrumAureus || BrimstoneElemental || Crabulon || DesertScourge || PlaguebringerGoliath || Ravager || StormWeaver || SunkenSea || Blizzard || Title != TitleType.Off);
+        get => !(AstrumAureus || BrimstoneElemental || Crabulon || DesertScourge || PlaguebringerGoliath || Ravager || StormWeaver || SunkenSea || AbyssLayer1 || Blizzard || Title != TitleType.Off);
         set
         {
             if (value)
@@ -80,6 +84,7 @@ public class CTMConfig : ModConfig
                 Ravager = false;
                 StormWeaver = false;
                 SunkenSea = false;
+                AbyssLayer1 = false;
                 Blizzard = false;
                 Title = TitleType.Off;
             }
