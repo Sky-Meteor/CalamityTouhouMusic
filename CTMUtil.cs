@@ -12,11 +12,15 @@ public static class CTMUtil
     public const string PlaguebringerGoliath = "PlaguebringerGoliath";
     public const string Ravager = "Ravager";
     public const string BrimstoneElemental = "BrimstoneElemental";
-    public const string Crabulon = "Crabulon";
+    public const string AquaticScourge = "AquaticScourge";
+	public const string Crabulon = "Crabulon";
     public const string StormWeaver = "StormWeaver";
 
     public const string SunkenSea = "SunkenSea";
     public const string AbyssLayer1 = "AbyssLayer1";
+    public const string SulphurousSeaDay = "SulphurousSeaDay";
+    public const string SulphurousSeaNight = "SulphurousSeaNight";
+    public const string BrimstoneCrags = "BrimstoneCrags";
 
 	public const string Blizzard = "Blizzard";
 

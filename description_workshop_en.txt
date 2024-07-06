@@ -1,0 +1,196 @@
+CalamityTouhouMusic
+
+[h1] Intro [/h1]
+This music pack plans to implement (including but not limited to) Touhou remix of all tracks in the official Calamity music pack, which is still being updated.
+-
+The tracks used in the music pack are recreation Doujin of Touhou, and complies with relevant laws and regulations, including the Touhou project guidelines.
+
+[h1] Credits [/h1]
+Orchestrated BY 天琈紫菀 (Tenshion)
+Programmed BY Furgo
+And special thanks to all friends who support this music pack.
+
+[h1] Links [/h1]
+You can get the source files of the music package directly on [url=github.com/Sky-Meteor/CalamityTouhouMusic/tree/master/Assets/Music] github [/url].
+P.S. I (Tenshion) will probably be uploading all my work to OneDrive & BandLab soon.
+
+[h1] Change Log [/h1]
+[h2] 0.2.0 [/h2]
+Updated the following 4 tracks:
+废土的海风
+Sea Breeze in the Wasteland
+Theme of Aquatic Scourge
+Original:
+[list]
+    [*] Outcast of the Sulphurous Seas - DM DOKURO
+    [*] 風の循環　～ Wind Tour - ZUN
+[/list]
+
+故乡之星锈蚀之海
+The Rusty Sea that Reflects One's Home Planet
+Theme of Sulphurous Sea (Day)
+Original:
+[list]
+    [*] wasteland - DM DOKURO
+    [*] 故郷の星が映る海 - ZUN
+[/list]
+
+故乡之锤锈蚀之罐
+The Rusty Vases that Reflects One's Mallet
+Theme of Sulphurous Sea (Night)
+Original:
+[list]
+    [*] wasteland - DM DOKURO
+    [*] 故郷の星が映る海 - ZUN
+    [*] Cerebrawl - Laura Shigihara
+[/list]
+
+阿萨福勒集市
+Azafure Fair
+Theme of Brimstone Crags
+Original:
+[list]
+    [*] The Step Below Hell - DM DOKURO
+    [*] 業火マントル - ZUN
+[/list]
+
+Modified some of the previous music.
+
+[h1] Track List [/h1]
+昔时之海的守卫
+Guardian of the Former Seas
+Theme of Desert Scourge
+Original: 
+[list]
+    [*] Guardian of the Former Seas - DM DOKURO
+[/list]
+
+深蓝群系所带来的黑暗
+The Darkness Brought In by Glowing Mushroom Biome
+Theme of Crabulon
+Original: 
+[list]
+    [*] 1NF3$+@+!0N - DM DOKURO
+    [*] 燕石博物誌が連れてきた闇 - ZUN
+[/list]
+
+硫火安魂曲
+Lullaby of Brimstone Flames
+Theme of Brimstone Elemental
+Original: 
+[list]
+    [*] Left Alone - DM DOKURO
+    [*] 廃獄ララバイ - ZUN
+[/list]
+
+废土的海风
+Sea Breeze in the Wasteland
+Theme of Aquatic Scourge
+Original:
+[list]
+    [*] Outcast of the Sulphurous Seas - DM DOKURO
+    [*] 風の循環　～ Wind Tour - ZUN
+[/list]
+
+星际践踏　～ G Normalize
+Interstellar Stomper　～ G Normalize
+Theme of Astrum Aureus
+Original: 
+[list]
+    [*] Interstellar Stomper - DM DOKURO
+    [*] 天空のグリニッジ - ZUN
+[/list]
+
+疫蜂飞舞　～ Fly of Beelzebub
+the Flight of the Plague Bee　～ Fly of Beelzebub
+Theme of Plaguebringer Goliath
+Original: 
+[list]
+    [*] Fly of Beelzebub - DM DOKURO
+    [*] Stinging Onslaught - Turquoise
+    [*] ハルトマンの妖怪少女 - ZUN
+    [*] MEGALOVANIA - Toby Fox
+[/list]
+
+维苏威晶簇　～ Open Frenzy
+Vesuvius Geode　～ Open Frenzy
+Theme of Ravager
+Original: 
+[list]
+    [*] Open Frenzy - DM DOKURO
+[/list]
+
+风暴编织者　～ Weaver of the Scourge
+Storm Weaver　～ Weaver of the Scourge
+Theme of Storm Weaver
+Original: 
+[list]
+    [*] Servants of the Scourge(Type W) - DM DOKURO
+    [*] 有頂天変　～ Wonderful Heaven - ZUN
+[/list]
+
+日渐荒废的海洋遗址
+The Obsolescent Oceanic Remains
+Theme of Sunken Sea
+Original: 
+[list]
+    [*] sanctuary - DM DOKURO
+    [*] 廃れゆく産業遺構 - ZUN
+[/list]
+
+故乡之星锈蚀之海
+The Rusty Sea that Reflects One's Home Planet
+Theme of Sulphurous Sea (Day)
+Original:
+[list]
+    [*] wasteland - DM DOKURO
+    [*] 故郷の星が映る海 - ZUN
+[/list]
+
+故乡之锤锈蚀之罐
+The Rusty Vases that Reflects One's Mallet
+Theme of Sulphurous Sea (Night)
+Original:
+[list]
+    [*] wasteland - DM DOKURO
+    [*] 故郷の星が映る海 - ZUN
+    [*] Cerebrawl - Laura Shigihara
+[/list]
+
+阿萨福勒集市
+Azafure Fair
+Theme of Brimstone Crags
+Original:
+[list]
+    [*] The Step Below Hell - DM DOKURO
+    [*] 業火マントル - ZUN
+[/list]
+
+幻想的冬之港湾
+Illusionary Harbor of Winter
+Theme of Blizzard
+Original: 
+[list]
+    [*] Cold Front - Turquoise
+    [*] 春の湊に - ZUN
+    [*] Antarctic Reinforcement - DM DOKURO
+[/list]
+
+残酷世界之传说
+The Tale of a Cruel World
+Theme1 of Title
+Original: 
+[list]
+    [*] The Tale of a Cruel World - DM DOKURO
+[/list]
+
+灾厄收藏家的午后
+The Calamity Collector's Afternoon
+Theme2 of Title
+Original: 
+[list]
+    [*] The Tale of a Cruel World - DM DOKURO
+    [*] コレクターの憂鬱な午後 - ZUN
+[/list]
+
+[quote=tModLoader]Developed By 天琈(Tenshion) & Furgo[/quote]

@@ -1,0 +1,181 @@
+东方风灾厄音乐包
+
+[h1] 简介 [/h1]
+本音乐包计划实现（包括但不限于）官方灾厄音乐包中所有曲目的东方风arrange，目前仍处于更新状态。
+-
+音乐包所使用的音乐均系东方二次同人，遵守包括《东方同人规约》在内的相关法律法规。
+-
+如果有什么疑问，欢迎加入交流群：243847605
+
+[h1] 制作人员名单 [/h1]
+编曲：天琈紫菀（Tenshion）
+程序：Furgo
+特别感谢：所有支持这个音乐包的朋友。
+
+[h1] 关于曲目下载 [/h1]
+这里是天琈。
+你可以在本音乐包的 [url=github.com/Sky-Meteor/CalamityTouhouMusic/tree/master/Assets/Music] 源文件 [/url] 直接获取所有音频。
+如果你是从B站关注我的，想要那些还没被音乐包收录的曲子，可以加上面的交流群，群里什么都有（
+P.S. 考虑到音乐包有外国友人体验，近期可能会将所有作品上传OneDrive和BandLab。
+
+[h1] 更新日志 [/h1]
+[h2] 0.2.0 [/h2]
+更新以下4首曲目：
+废土的海风
+渊海灾虫主题曲
+原曲：
+[list]
+    [*] Outcast of the Sulphurous Seas - DM DOKURO
+    [*] 風の循環　～ Wind Tour - ZUN
+[/list]
+
+故乡之星锈蚀之海
+硫磺海（白天）主题曲
+原曲：
+[list]
+    [*] wasteland - DM DOKURO
+    [*] 故郷の星が映る海 - ZUN
+[/list]
+
+故乡之锤锈蚀之罐
+硫磺海（夜晚）主题曲
+原曲：
+[list]
+    [*] wasteland - DM DOKURO
+    [*] 故郷の星が映る海 - ZUN
+    [*] Cerebrawl - Laura Shigihara
+[/list]
+
+阿萨福勒集市
+硫火之崖主题曲
+原曲：
+[list]
+    [*] The Step Below Hell - DM DOKURO
+    [*] 業火マントル - ZUN
+[/list]
+
+修改了部分之前的音乐。
+
+[h1] 曲目列表 [/h1]
+昔时之海的守卫
+荒漠灾虫主题曲
+原曲：
+[list]
+    [*] Guardian of the Former Seas - DM DOKURO
+[/list]
+
+深蓝群系所带来的黑暗
+菌生蟹主题曲
+原曲：
+[list]
+    [*] 1NF3$+@+!0N - DM DOKURO
+    [*] 燕石博物誌が連れてきた闇 - ZUN
+[/list]
+
+硫火安魂曲
+硫磺火元素主题曲
+原曲：
+[list]
+    [*] Left Alone - DM DOKURO
+    [*] 廃獄ララバイ - ZUN
+[/list]
+
+废土的海风
+渊海灾虫主题曲
+原曲：
+[list]
+    [*] Outcast of the Sulphurous Seas - DM DOKURO
+    [*] 風の循環　～ Wind Tour - ZUN
+[/list]
+
+星际践踏　～ G Normalize
+白金星舰主题曲
+原曲：
+[list]
+    [*] Interstellar Stomper - DM DOKURO
+    [*] 天空のグリニッジ - ZUN
+[/list]
+
+疫蜂飞舞　～ Fly of Beelzebub
+瘟疫使者歌莉娅主题曲
+原曲：
+[list]
+    [*] Fly of Beelzebub - DM DOKURO
+    [*] Stinging Onslaught - Turquoise
+    [*] ハルトマンの妖怪少女 - ZUN
+    [*] MEGALOVANIA - Toby Fox
+[/list]
+
+维苏威晶簇　～ Open Frenzy
+毁灭魔像主题曲
+原曲：
+[list]
+    [*] Open Frenzy - DM DOKURO
+[/list]
+
+风暴编织者　～ Weaver of the Scourge
+风暴编织者主题曲
+原曲：
+[list]
+    [*] Servants of the Scourge(Type W) - DM DOKURO
+    [*] 有頂天変　～ Wonderful Heaven - ZUN
+[/list]
+
+日渐荒废的海洋遗址
+沉沦之海主题曲
+原曲：
+[list]
+    [*] sanctuary - DM DOKURO
+    [*] 廃れゆく産業遺構 - ZUN
+[/list]
+
+故乡之星锈蚀之海
+硫磺海（白天）主题曲
+原曲：
+[list]
+    [*] wasteland - DM DOKURO
+    [*] 故郷の星が映る海 - ZUN
+[/list]
+
+故乡之锤锈蚀之罐
+硫磺海（夜晚）主题曲
+原曲：
+[list]
+    [*] wasteland - DM DOKURO
+    [*] 故郷の星が映る海 - ZUN
+    [*] Cerebrawl - Laura Shigihara
+[/list]
+
+阿萨福勒集市
+硫火之崖主题曲
+原曲：
+[list]
+    [*] The Step Below Hell - DM DOKURO
+    [*] 業火マントル - ZUN
+[/list]
+
+幻想的冬之港湾
+暴风雪主题曲
+原曲：
+[list]
+    [*] Cold Front - Turquoise
+    [*] 春の湊に - ZUN
+    [*] Antarctic Reinforcement - DM DOKURO
+[/list]
+
+残酷世界之传说
+标题界面主题曲1
+原曲：
+[list]
+    [*] The Tale of a Cruel World - DM DOKURO
+[/list]
+
+灾厄收藏家的午后
+标题界面主题曲2
+原曲：
+[list]
+    [*] The Tale of a Cruel World - DM DOKURO
+    [*] コレクターの憂鬱な午後 - ZUN
+[/list]
+
+[quote=tModLoader]Developed By 天琈(Tenshion) & Furgo[/quote]
