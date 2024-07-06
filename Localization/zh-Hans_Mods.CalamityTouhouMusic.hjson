@@ -1,4 +1,4 @@
-Configs: {
+﻿Configs: {
 	CTMConfig: {
 		DisplayName: 灾厄东方风音乐包模组配置
 
@@ -9,43 +9,68 @@ Configs: {
 			Misc: 杂项
 		}
 
+		AquaticScourge: {
+			Label: "【渊海灾虫】废土的海风"
+			Tooltip: ""
+		}
+
 		AstrumAureus: {
-			Label: 白金星舰
+			Label: 【白金星舰】星际践踏　～ G Normalize
 			Tooltip: ""
 		}
 
 		BrimstoneElemental: {
-			Label: 硫磺火元素
+			Label: 【硫磺火元素】硫火安魂曲
 			Tooltip: ""
 		}
 
 		Crabulon: {
-			Label: 菌生蟹
+			Label: 【菌生蟹】深蓝群系所带来的黑暗
 			Tooltip: ""
 		}
 
 		DesertScourge: {
-			Label: 荒漠灾虫
+			Label: 【荒漠灾虫】昔时之海的守卫
 			Tooltip: ""
 		}
 
 		PlaguebringerGoliath: {
-			Label: 瘟疫使者歌莉娅
+			Label: 【瘟疫使者歌莉娅】疫蜂飞舞　～ Fly of Beelzebub
 			Tooltip: ""
 		}
 
 		Ravager: {
-			Label: 毁灭魔像
+			Label: 【毁灭魔像】维苏威晶簇　～ Open Frenzy
 			Tooltip: ""
 		}
 
 		StormWeaver: {
-			Label: 风暴编织者
+			Label: 【风暴编织者】风暴编织者　～ Weaver of the Scourge
 			Tooltip: ""
 		}
 
 		SunkenSea: {
-			Label: 沉沦之海
+			Label: 【沉沦之海】日渐荒废的海洋遗址
+			Tooltip: ""
+		}
+
+		SulphurousSeaDay: {
+			Label: "【硫磺海（白天）】故乡之星锈蚀之海"
+			Tooltip: ""
+		}
+
+		SulphurousSeaNight: {
+			Label: "【硫磺海（夜晚）】故乡之锤锈蚀之罐"
+			Tooltip: ""
+		}
+
+		AbyssLayer1: {
+			Label: "【深渊第一层】同硫磺海主题曲"
+			Tooltip: ""
+		}
+
+		BrimstoneCrags: {
+			Label: "【硫火之崖】阿萨福勒集市"
 			Tooltip: ""
 		}
 
@@ -72,8 +97,8 @@ Configs: {
 
 	TitleType: {
 		Tooltip: ""
-		Title1.Label: 标题音乐1
-		Title2.Label: 标题音乐2
+		Title1.Label: 残酷世界之传说
+		Title2.Label: 灾厄收藏家的午后
 		Off.Label: 关
 	}
 }

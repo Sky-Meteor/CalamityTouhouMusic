@@ -57,6 +57,7 @@ public class CTMConfig : ModConfig
 
 	[Header("Misc")]
 	[DefaultValue(TitleType.Title1)]
+	[DrawTicks]
 	[ReloadRequired]
 	public TitleType Title;
 

@@ -1,4 +1,4 @@
-Configs: {
+﻿Configs: {
 	CTMConfig: {
 		DisplayName: Calamity Touhou Music Config
 
@@ -6,51 +6,76 @@ Configs: {
 			Boss: Boss
 			Biome: Biome
 			Environment: Environment
-			Misc: Misc Header
+			Misc: Misc
+		}
+		
+		AquaticScourge: {
+			Label: "[Aquatic Scourge] Sea Breeze in the Wasteland"
+			Tooltip: ""
 		}
 
 		AstrumAureus: {
-			Label: Astrum Aureus
+			Label: "[Astrum Aureus] Interstellar Stomper　～ G Normalize"
 			Tooltip: ""
 		}
 
 		BrimstoneElemental: {
-			Label: Brimstone Elemental
+			Label: "[Brimstone Elemental] Lullaby of Brimstone Flames"
 			Tooltip: ""
 		}
 
 		Crabulon: {
-			Label: Crabulon
+			Label: "[Crabulon] The Darkness Brought In by Glowing Mushroom Biome"
 			Tooltip: ""
 		}
 
 		DesertScourge: {
-			Label: Desert Scourge
+			Label: "[Desert Scourge] Guardian of the Former Seas"
 			Tooltip: ""
 		}
 
 		PlaguebringerGoliath: {
-			Label: Plaguebringer Goliath
+			Label: "[Plaguebringer Goliath] The Flight of the Plague Bee　～ Fly of Beelzebub"
 			Tooltip: ""
 		}
 
 		Ravager: {
-			Label: Ravager
+			Label: "[Ravager] Vesuvius Geode　～ Open Frenzy"
 			Tooltip: ""
 		}
 
 		StormWeaver: {
-			Label: Storm Weaver
+			Label: "[Storm Weaver] Storm Weaver　～ Weaver of the Scourge"
 			Tooltip: ""
 		}
 
 		SunkenSea: {
-			Label: Sunken Sea
+			Label: "[Sunken Sea] The Obsolescent Oceanic Remains"
+			Tooltip: ""
+		}
+		
+		SulphurousSeaDay: {
+			Label: "[Sulphurous Sea (Day)] The Rusty Sea that Reflects One's Home Planet"
+			Tooltip: ""
+		}
+
+		SulphurousSeaNight: {
+			Label: "[Sulphurous Sea (Night)] The Rusty Vases that Reflects One's Mallet"
+			Tooltip: ""
+		}
+
+		AbyssLayer1: {
+			Label: "[Abyss Layer1] Same as Theme of Sulphurous Sea"
+			Tooltip: ""
+		}
+
+		BrimstoneCrags: {
+			Label: "[Brimstone Crags] Azafure Fair"
 			Tooltip: ""
 		}
 
 		Blizzard: {
-			Label: Blizzard
+			Label: "[Blizzard] Illusionary Harbor of Winter"
 			Tooltip: ""
 		}
 
@@ -72,8 +97,8 @@ Configs: {
 
 	TitleType: {
 		Tooltip: ""
-		Title1.Label: Title 1
-		Title2.Label: Title 2
+		Title1.Label: The Tale of a Cruel World
+		Title2.Label: The Calamity Collector's Afternoon
 		Off.Label: Off
 	}
 }

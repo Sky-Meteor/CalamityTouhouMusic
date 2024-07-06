@@ -1,9 +1,9 @@
 ﻿using CalamityMod;
 using Terraria;
 
-namespace CalamityTouhouMusic.Scenes.Biome;
+namespace CalamityTouhouMusic.Scenes.Environment;
 
-public class BrimstoneCrags : BaseBiomeScene
+public class BrimstoneCrags : BaseEnvironmentScene
 {
     protected override bool ConfigValue => CTMConfig.Instance().BrimstoneCrags;
     protected override string MusicSlot => CTMUtil.BrimstoneCrags;
