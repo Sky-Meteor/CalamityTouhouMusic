@@ -1,4 +1,4 @@
-﻿Configs: {
+Configs: {
 	CTMConfig: {
 		DisplayName: 灾厄东方风音乐包模组配置
 
@@ -10,7 +10,7 @@
 		}
 
 		AquaticScourge: {
-			Label: "【渊海灾虫】废土的海风"
+			Label: 【渊海灾虫】废土的海风
 			Tooltip: ""
 		}
 
@@ -55,22 +55,22 @@
 		}
 
 		SulphurousSeaDay: {
-			Label: "【硫磺海（白天）】故乡之星锈蚀之海"
+			Label: 【硫磺海（白天）】故乡之星锈蚀之海
 			Tooltip: ""
 		}
 
 		SulphurousSeaNight: {
-			Label: "【硫磺海（夜晚）】故乡之锤锈蚀之罐"
+			Label: 【硫磺海（夜晚）】故乡之锤锈蚀之罐
 			Tooltip: ""
 		}
 
 		AbyssLayer1: {
-			Label: "【深渊第一层】同硫磺海主题曲"
+			Label: 【深渊第一层】同硫磺海主题曲
 			Tooltip: ""
 		}
 
 		BrimstoneCrags: {
-			Label: "【硫火之崖】阿萨福勒集市"
+			Label: 【硫火之崖】阿萨福勒集市
 			Tooltip: ""
 		}
 

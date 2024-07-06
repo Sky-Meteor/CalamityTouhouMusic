@@ -36,6 +36,13 @@ Theme of Brimstone Elemental
 Original: Left Alone - DM DOKURO
               廃獄ララバイ - ZUN
 
+废土的海风
+Sea Breeze in the Wasteland
+渊海灾虫主题曲
+Theme of Aquatic Scourge
+Original: Outcast of the Sulphurous Seas - DM DOKURO
+              風の循環　～ Wind Tour - ZUN
+
 星际践踏　～ G Normalize
 Interstellar Stomper　～ G Normalize
 白金星舰主题曲
@@ -44,7 +51,7 @@ Original: Interstellar Stomper - DM DOKURO
               天空のグリニッジ - ZUN
 
 疫蜂飞舞　～ Fly of Beelzebub
-the Flight of the Plague Bee　～ Fly of Beelzebub
+The Flight of the Plague Bee　～ Fly of Beelzebub
 瘟疫使者歌莉娅主题曲
 Theme of Plaguebringer Goliath
 Original: Fly of Beelzebub - DM DOKURO
@@ -72,6 +79,27 @@ Theme of Sunken Sea
 Original: sanctuary - DM DOKURO
               廃れゆく産業遺構 - ZUN
 
+故乡之星锈蚀之海
+The Rusty Sea that Reflects One's Home Planet
+硫磺海（白天）主题曲
+Theme of Sulphurous Sea (Day)
+Original: wasteland - DM DOKURO
+              故郷の星が映る海 - ZUN
+
+故乡之锤锈蚀之罐
+The Rusty Vases that Reflects One's Mallet
+硫磺海（夜晚）主题曲
+Theme of Sulphurous Sea (Night)
+Original: wasteland - DM DOKURO
+              故郷の星が映る海 - ZUN
+              Cerebrawl - Laura Shigihara
+
+阿萨福勒集市
+Azafure Fair
+硫火之崖主题曲
+Theme of Brimstone Crags
+Original: The Step Below Hell - DM DOKURO
+              業火マントル - ZUN
 幻想的冬之港湾
 Illusionary Harbor of Winter
 暴风雪主题曲

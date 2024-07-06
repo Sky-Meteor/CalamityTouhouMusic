@@ -1,4 +1,4 @@
-﻿Configs: {
+Configs: {
 	CTMConfig: {
 		DisplayName: Calamity Touhou Music Config
 
@@ -8,7 +8,7 @@
 			Environment: Environment
 			Misc: Misc
 		}
-		
+
 		AquaticScourge: {
 			Label: "[Aquatic Scourge] Sea Breeze in the Wasteland"
 			Tooltip: ""
@@ -53,7 +53,7 @@
 			Label: "[Sunken Sea] The Obsolescent Oceanic Remains"
 			Tooltip: ""
 		}
-		
+
 		SulphurousSeaDay: {
 			Label: "[Sulphurous Sea (Day)] The Rusty Sea that Reflects One's Home Planet"
 			Tooltip: ""
