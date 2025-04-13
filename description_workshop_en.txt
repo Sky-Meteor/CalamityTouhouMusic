@@ -15,45 +15,93 @@ You can get the source files of the music package directly on [url=github.com/Sk
 P.S. I (Tenshion) will probably be uploading all my work to OneDrive & BandLab soon.
 
 [h1] Change Log [/h1]
+[h2] 0.3.0 [/h2]
+Updated the following 9 tracks:
+フィルシーブラッドドラゴン
+Filthy Blood Dragon
+Theme of the Hive Mind & the Perforators
+Original: 
+[list]
+    [*] The Filthy Mind - DM DOKURO & SixteenInMono
+    [*] Blood Coagulant - DM DOKURO & SixteenInMono
+    [*] スモーキングドラゴン - ZUN
+[/list]
+
+无瑕的分形能量
+The Pure Fractal Energies
+Theme of Bio-center Labs
+Original: 
+[list]
+    [*] Engineer's Sanctum（Old ver.） - Heart Plus Up!
+[/list]
+
+硫海之下，渊海之灵
+Beneath the Sulphurous Sea is the Abyssal Spirits
+Theme of Abyss
+Original: 
+[list]
+    [*] Hadopelagic Pressure - DM DOKURO
+[/list]
+
+极地都市秘境
+Rural Polar City Esoteria
+Theme of Cryogen
+Original: 
+[list]
+    [*] Antarctic Reinforcement - DM DOKURO
+    [*] 魔界地方都市エソテリア - ZUN
+[/list]
+
+法界之水
+Waters of Hokkai
+Theme of ???
+Original:
+[list]
+    [*] Siren's Call (Seafoam Mix) - DM DOKURO
+    [*] 法界の火 - ZUN
+[/list]
+
+月上星辉原
+Moonrise at the Astral Land
+Theme of Astral Infection
+Original:
+[list]
+    [*] The Heaven-Sent Abomination - DM DOKURO
+    [*] 夜のデンデラ野を逝く - ZUN
+[/list]
+
+无尽虚空　～ Void of the Scourge
+Ceaseless Void　～ Void of the Scourge
+Theme of Ceaseless Void
+Original:
+[list]
+    [*] Servants of the Scourge(Type V) - DM DOKURO
+[/list]
+
+スカッジ・オブ・ユニバース
+Scourge of Universe
+Theme of the Devourer of Gods (Phase 1)
+Original:
+[list]
+    [*] Scourge of The Universe - DM DOKURO
+[/list]
+
+普遍性崩坏　～ Universal Collapse
+General Collapse　～ Universal Collapse
+Theme of the Devourer of Gods (Phase 2)
+Original:
+[list]
+    [*] UNIVERSAL COLLAPSE - DM DOKURO
+[/list]
+
 [h2] 0.2.0 [/h2]
 Updated the following 4 tracks:
-废土的海风
-Sea Breeze in the Wasteland
-Theme of Aquatic Scourge
-Original:
 [list]
-    [*] Outcast of the Sulphurous Seas - DM DOKURO
-    [*] 風の循環　～ Wind Tour - ZUN
+    [*] Sea Breeze in the Wasteland
+    [*] The Rusty Sea that Reflects One's Home Planet
+    [*] The Rusty Vases that Reflects One's Mallet
+    [*] Azafure Fair
 [/list]
-
-故乡之星锈蚀之海
-The Rusty Sea that Reflects One's Home Planet
-Theme of Sulphurous Sea (Day)
-Original:
-[list]
-    [*] wasteland - DM DOKURO
-    [*] 故郷の星が映る海 - ZUN
-[/list]
-
-故乡之锤锈蚀之罐
-The Rusty Vases that Reflects One's Mallet
-Theme of Sulphurous Sea (Night)
-Original:
-[list]
-    [*] wasteland - DM DOKURO
-    [*] 故郷の星が映る海 - ZUN
-    [*] Cerebrawl - Laura Shigihara
-[/list]
-
-阿萨福勒集市
-Azafure Fair
-Theme of Brimstone Crags
-Original:
-[list]
-    [*] The Step Below Hell - DM DOKURO
-    [*] 業火マントル - ZUN
-[/list]
-
 Modified some of the previous music.
 
 [h1] Track List [/h1]
@@ -74,6 +122,25 @@ Original:
     [*] 燕石博物誌が連れてきた闇 - ZUN
 [/list]
 
+フィルシーブラッドドラゴン
+Filthy Blood Dragon
+Theme of the Hive Mind & the Perforators
+Original: 
+[list]
+    [*] The Filthy Mind - DM DOKURO & SixteenInMono
+    [*] Blood Coagulant - DM DOKURO & SixteenInMono
+    [*] スモーキングドラゴン - ZUN
+[/list]
+
+极地都市秘境
+Rural Polar City Esoteria
+Theme of Cryogen
+Original: 
+[list]
+    [*] Antarctic Reinforcement - DM DOKURO
+    [*] 魔界地方都市エソテリア - ZUN
+[/list]
+
 硫火安魂曲
 Lullaby of Brimstone Flames
 Theme of Brimstone Elemental
@@ -92,6 +159,15 @@ Original:
     [*] 風の循環　～ Wind Tour - ZUN
 [/list]
 
+法界之水
+Waters of Hokkai
+Theme of ???
+Original:
+[list]
+    [*] Siren's Call (Seafoam Mix) - DM DOKURO
+    [*] 法界の火 - ZUN
+[/list]
+
 星际践踏　～ G Normalize
 Interstellar Stomper　～ G Normalize
 Theme of Astrum Aureus
@@ -102,7 +178,7 @@ Original:
 [/list]
 
 疫蜂飞舞　～ Fly of Beelzebub
-The Flight of the Plague Bee　～ Fly of Beelzebub
+the Flight of the Plague Bee　～ Fly of Beelzebub
 Theme of Plaguebringer Goliath
 Original: 
 [list]
@@ -129,6 +205,30 @@ Original:
     [*] 有頂天変　～ Wonderful Heaven - ZUN
 [/list]
 
+无尽虚空　～ Void of the Scourge
+Ceaseless Void　～ Void of the Scourge
+Theme of Ceaseless Void
+Original:
+[list]
+    [*] Servants of the Scourge(Type V) - DM DOKURO
+[/list]
+
+スカッジ・オブ・ユニバース
+Scourge of Universe
+Theme of the Devourer of Gods (Phase 1)
+Original:
+[list]
+    [*] Scourge of The Universe - DM DOKURO
+[/list]
+
+普遍性崩坏　～ Universal Collapse
+General Collapse　～ Universal Collapse
+Theme of the Devourer of Gods (Phase 2)
+Original:
+[list]
+    [*] UNIVERSAL COLLAPSE - DM DOKURO
+[/list]
+
 日渐荒废的海洋遗址
 The Obsolescent Oceanic Remains
 Theme of Sunken Sea
@@ -136,6 +236,14 @@ Original:
 [list]
     [*] sanctuary - DM DOKURO
     [*] 廃れゆく産業遺構 - ZUN
+[/list]
+
+无瑕的分形能量
+The Pure Fractal Energies
+Theme of Bio-center Labs
+Original: 
+[list]
+    [*] Engineer's Sanctum（Old ver.） - Heart Plus Up!
 [/list]
 
 故乡之星锈蚀之海
@@ -157,6 +265,14 @@ Original:
     [*] Cerebrawl - Laura Shigihara
 [/list]
 
+硫海之下，渊海之灵
+Beneath the Sulphurous Sea is the Abyssal Spirits
+Theme of Abyss
+Original: 
+[list]
+    [*] Hadopelagic Pressure - DM DOKURO
+[/list]
+
 阿萨福勒集市
 Azafure Fair
 Theme of Brimstone Crags
@@ -164,6 +280,15 @@ Original:
 [list]
     [*] The Step Below Hell - DM DOKURO
     [*] 業火マントル - ZUN
+[/list]
+
+月上星辉原
+Moonrise at the Astral Land
+Theme of Astral Infection
+Original:
+[list]
+    [*] The Heaven-Sent Abomination - DM DOKURO
+    [*] 夜のデンデラ野を逝く - ZUN
 [/list]
 
 幻想的冬之港湾

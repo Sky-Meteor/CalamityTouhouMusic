@@ -9,18 +9,8 @@ Configs: {
 			Misc: 杂项
 		}
 
-		AquaticScourge: {
-			Label: 【渊海灾虫】废土的海风
-			Tooltip: ""
-		}
-
-		AstrumAureus: {
-			Label: 【白金星舰】星际践踏　～ G Normalize
-			Tooltip: ""
-		}
-
-		BrimstoneElemental: {
-			Label: 【硫磺火元素】硫火安魂曲
+		DesertScourge: {
+			Label: 【荒漠灾虫】昔时之海的守卫
 			Tooltip: ""
 		}
 
@@ -29,8 +19,38 @@ Configs: {
 			Tooltip: ""
 		}
 
-		DesertScourge: {
-			Label: 【荒漠灾虫】昔时之海的守卫
+		HiveMind: {
+			Label: 【腐巢意志】污秽血肉之龙
+			Tooltip: ""
+		}
+
+		Perforators: {
+			Label: 【血肉宿主】污秽血肉之龙
+			Tooltip: ""
+		}
+
+		AquaticScourge: {
+			Label: 【渊海灾虫】废土的海风
+			Tooltip: ""
+		}
+
+		BrimstoneElemental: {
+			Label: 【硫磺火元素】硫火安魂曲
+			Tooltip: ""
+		}
+
+		Cryogen: {
+			Label: 【极地之灵】极地都市秘境
+			Tooltip: ""
+		}
+
+		AnahitasLure: {
+			Label: 【？？？】法界之水
+			Tooltip: ""
+		}
+
+		AstrumAureus: {
+			Label: 【白金星舰】星际践踏　～ G Normalize
 			Tooltip: ""
 		}
 
@@ -46,6 +66,21 @@ Configs: {
 
 		StormWeaver: {
 			Label: 【风暴编织者】风暴编织者　～ Weaver of the Scourge
+			Tooltip: ""
+		}
+
+		CeaselessVoid: {
+			Label: 【无尽虚空】无尽虚空　～ Void of the Scourge
+			Tooltip: ""
+		}
+
+		DevourerofGodsPhase1: {
+			Label: 【神明吞噬者（一阶段）】寰宇灾劫
+			Tooltip: ""
+		}
+
+		DevourerofGodsPhase2: {
+			Label: 【神明吞噬者（二阶段）】普遍性崩坏　～ Universal Collapse
 			Tooltip: ""
 		}
 
@@ -69,13 +104,38 @@ Configs: {
 			Tooltip: ""
 		}
 
+		AbyssLayer2: {
+			Label: 【深渊第二层】硫海之下，渊海之灵
+			Tooltip: ""
+		}
+
+		AbyssLayer3: {
+			Label: 【深渊第三层】硫海之下，渊海之灵
+			Tooltip: ""
+		}
+
+		AbyssLayer4: {
+			Label: 【深渊第四层】硫海之下，渊海之灵
+			Tooltip: ""
+		}
+
 		BrimstoneCrags: {
 			Label: 【硫火之崖】阿萨福勒集市
 			Tooltip: ""
 		}
 
+		AstralInfection: {
+			Label: 【星辉瘟疫】月上星辉原
+			Tooltip: ""
+		}
+
 		Blizzard: {
 			Label: 【暴风雪】幻想的冬之港湾
+			Tooltip: ""
+		}
+
+		BioLab: {
+			Label: 【嘉登实验室】无瑕的分形能量
 			Tooltip: ""
 		}
 

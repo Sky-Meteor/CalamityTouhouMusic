@@ -8,115 +8,180 @@ The tracks used in the music pack are recreation Doujin of Touhou, and complies 
 -
 如果有什么疑问，欢迎加入交流群：243847605
 -
-Credits
+制作人员名单(Credits)：
 
 编曲：天琈紫菀（Tenshion）
 程序：Furgo
 And special thanks to all friends who support this music pack.
 -
-曲目列表：
+更新日志(Change Log)：
 
-昔时之海的守卫
-Guardian of the Former Seas
-荒漠灾虫主题曲
-Theme of Desert Scourge
-Original: Guardian of the Former Seas - DM DOKURO
+-0.3.0
 
-深蓝群系所带来的黑暗
-The Darkness Brought In by Glowing Mushroom Biome
-菌生蟹主题曲
-Theme of Crabulon
-Original: 1NF3$+@+!0N - DM DOKURO
-              燕石博物誌が連れてきた闇 - ZUN
+-Updated the following 9 tracks:
+ - 污秽血肉之龙
+ - Filthy Blood Dragon
+ - 腐巢意志&血肉宿主主题曲
+ - Theme of the Hive Mind & the Perforators
 
-硫火安魂曲
-Lullaby of Brimstone Flames
-硫磺火元素主题曲
-Theme of Brimstone Elemental
-Original: Left Alone - DM DOKURO
-              廃獄ララバイ - ZUN
+ - 无瑕的分形能量
+ - The Pure Fractal Energies
+ - 嘉登实验室主题曲
+ - Theme of Bio-center Labs
 
-废土的海风
-Sea Breeze in the Wasteland
-渊海灾虫主题曲
-Theme of Aquatic Scourge
-Original: Outcast of the Sulphurous Seas - DM DOKURO
-              風の循環　～ Wind Tour - ZUN
+ - 硫海之下，渊海之灵
+ - Beneath the Sulphurous Sea is the Abyssal Spirits
+ - 深渊主题曲
+ - Theme of Abyss
 
-星际践踏　～ G Normalize
-Interstellar Stomper　～ G Normalize
-白金星舰主题曲
-Theme of Astrum Aureus
-Original: Interstellar Stomper - DM DOKURO
-              天空のグリニッジ - ZUN
+ - 极地都市秘境
+ - Rural Polar City Esoteria
+ - 极地之灵主题曲
+ - Theme of Cryogen
 
-疫蜂飞舞　～ Fly of Beelzebub
-The Flight of the Plague Bee　～ Fly of Beelzebub
-瘟疫使者歌莉娅主题曲
-Theme of Plaguebringer Goliath
-Original: Fly of Beelzebub - DM DOKURO
-              Stinging Onslaught - Turquoise
-              ハルトマンの妖怪少女 - ZUN
-              MEGALOVANIA - Toby Fox
+ - 法界之水
+ - Waters of Hokkai
+ - ？？？主题曲
+ - Theme of ???
 
-维苏威晶簇　～ Open Frenzy
-Vesuvius Geode　～ Open Frenzy
-毁灭魔像主题曲
-Theme of Ravager
-Original: Open Frenzy - DM DOKURO
+ - 月上星辉原
+ - Moonrise at the Astral Land
+ - 星辉瘟疫主题曲
+ - Theme of Astral Infection
 
-风暴编织者　～ Weaver of the Scourge
-Storm Weaver　～ Weaver of the Scourge
-风暴编织者主题曲
-Theme of Storm Weaver
-Original: Servants of the Scourge(Type W) - DM DOKURO
-              有頂天変　～ Wonderful Heaven - ZUN
+ - 无尽虚空　～ Void of the Scourge
+ - Ceaseless Void　～ Void of the Scourge
+ - 无尽虚空主题曲
+ - Theme of Ceaseless Void
 
-日渐荒废的海洋遗址
-The Obsolescent Oceanic Remains
-沉沦之海主题曲
-Theme of Sunken Sea
-Original: sanctuary - DM DOKURO
-              廃れゆく産業遺構 - ZUN
+ - 寰宇灾劫
+ - Scourge of Universe
+ - 神明吞噬者（一阶段）主题曲
+ - Theme of the Devourer of Gods (Phase 1)
 
-故乡之星锈蚀之海
-The Rusty Sea that Reflects One's Home Planet
-硫磺海（白天）主题曲
-Theme of Sulphurous Sea (Day)
-Original: wasteland - DM DOKURO
-              故郷の星が映る海 - ZUN
+ - 普遍性崩坏　～ Universal Collapse
+ - General Collapse　～ Universal Collapse
+ - 神明吞噬者（二阶段）主题曲
+ - Theme of the Devourer of Gods (Phase 2)
+-
+曲目列表(Track List)：
 
-故乡之锤锈蚀之罐
-The Rusty Vases that Reflects One's Mallet
-硫磺海（夜晚）主题曲
-Theme of Sulphurous Sea (Night)
-Original: wasteland - DM DOKURO
-              故郷の星が映る海 - ZUN
-              Cerebrawl - Laura Shigihara
+ - 昔时之海的守卫
+ - Guardian of the Former Seas
+ - 荒漠灾虫主题曲
+ - Theme of Desert Scourge
 
-阿萨福勒集市
-Azafure Fair
-硫火之崖主题曲
-Theme of Brimstone Crags
-Original: The Step Below Hell - DM DOKURO
-              業火マントル - ZUN
-幻想的冬之港湾
-Illusionary Harbor of Winter
-暴风雪主题曲
-Theme of Blizzard
-Original: Cold Front - Turquoise
-              春の湊に - ZUN
-              Antarctic Reinforcement - DM DOKURO
+ - 深蓝群系所带来的黑暗
+ - The Darkness Brought In by Glowing Mushroom Biome
+ - 菌生蟹主题曲
+ - Theme of Crabulon
 
-残酷世界之传说
-The Tale of a Cruel World
-标题画面主题曲
-Theme1 of Title
-Original: The Tale of a Cruel World - DM DOKURO
+ - 污秽血肉之龙
+ - Filthy Blood Dragon
+ - 腐巢意志&血肉宿主主题曲
+ - Theme of the Hive Mind & the Perforators
 
-灾厄收藏家的午后
-The Calamity Collector's Afternoon
-标题画面主题曲
-Theme2 of Title
-Original: The Tale of a Cruel World - DM DOKURO
-              コレクターの憂鬱な午後 - ZUN
+ - 极地都市秘境
+ - Rural Polar City Esoteria
+ - 极地之灵主题曲
+ - Theme of Cryogen
+
+ - 硫火安魂曲
+ - Lullaby of Brimstone Flames
+ - 硫磺火元素主题曲
+ - Theme of Brimstone Elemental
+
+ - 废土的海风
+ - Sea Breeze in the Wasteland
+ - 渊海灾虫主题曲
+ - Theme of Aquatic Scourge
+
+ - 法界之水
+ - Waters of Hokkai
+ - ？？？主题曲
+ - Theme of ???
+
+ - 星际践踏　～ G Normalize
+ - Interstellar Stomper　～ G Normalize
+ - 白金星舰主题曲
+ - Theme of Astrum Aureus
+
+ - 疫蜂飞舞　～ Fly of Beelzebub
+ - the Flight of the Plague Bee　～ Fly of Beelzebub
+ - 瘟疫使者歌莉娅主题曲
+ - Theme of Plaguebringer Goliath
+
+ - 维苏威晶簇　～ Open Frenzy
+ - Vesuvius Geode　～ Open Frenzy
+ - 毁灭魔像主题曲
+ - Theme of Ravager
+
+ - 风暴编织者　～ Weaver of the Scourge
+ - Storm Weaver　～ Weaver of the Scourge
+ - 风暴编织者主题曲
+ - Theme of Storm Weaver
+
+ - 无尽虚空　～ Void of the Scourge
+ - Ceaseless Void　～ Void of the Scourge
+ - 无尽虚空主题曲
+ - Theme of Ceaseless Void
+ 
+ - 寰宇灾劫
+ - Scourge of Universe
+ - 神明吞噬者（一阶段）主题曲
+ - Theme of the Devourer of Gods (Phase 1)
+
+ - 普遍性崩坏　～ Universal Collapse
+ - General Collapse　～ Universal Collapse
+ - 神明吞噬者（二阶段）主题曲
+ - Theme of the Devourer of Gods (Phase 2)
+
+ - 日渐荒废的海洋遗址
+ - The Obsolescent Oceanic Remains
+ - 沉沦之海主题曲
+ - Theme of Sunken Sea
+
+ - 无瑕的分形能量
+ - The Pure Fractal Energies
+ - 嘉登实验室主题曲
+ - Theme of Bio-center Labs
+
+ - 故乡之星锈蚀之海
+ - The Rusty Sea that Reflects One's Home Planet
+ - 硫磺海（白天）主题曲
+ - Theme of Sulphurous Sea (Day)
+
+ - 故乡之锤锈蚀之罐
+ - The Rusty Vases that Reflects One's Mallet
+ - 硫磺海（夜晚）主题曲
+ - Theme of Sulphurous Sea (Night)
+
+ - 硫海之下，渊海之灵
+ - Beneath the Sulphurous Sea is the Abyssal Spirits
+ - 深渊主题曲
+ - Theme of Abyss
+
+ - 阿萨福勒集市
+ - Azafure Fair
+ - 硫火之崖主题曲
+ - Theme of Brimstone Crags
+
+ - 月上星辉原
+ - Moonrise at the Astral Land
+ - 星辉瘟疫主题曲
+ - Theme of Astral Infection
+
+ - 幻想的冬之港湾
+ - Illusionary Harbor of Winter
+ - 暴风雪主题曲
+ - Theme of Blizzard
+
+ - 残酷世界之传说
+ - The Tale of a Cruel World
+ - 标题界面主题曲1
+ - Theme1 of Title
+
+ - 灾厄收藏家的午后
+ - The Calamity Collector's Afternoon
+ - 标题界面主题曲2
+ - Theme2 of Title

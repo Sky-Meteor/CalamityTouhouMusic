@@ -9,18 +9,8 @@ Configs: {
 			Misc: Misc
 		}
 
-		AquaticScourge: {
-			Label: "[Aquatic Scourge] Sea Breeze in the Wasteland"
-			Tooltip: ""
-		}
-
-		AstrumAureus: {
-			Label: "[Astrum Aureus] Interstellar Stomper　～ G Normalize"
-			Tooltip: ""
-		}
-
-		BrimstoneElemental: {
-			Label: "[Brimstone Elemental] Lullaby of Brimstone Flames"
+		DesertScourge: {
+			Label: "[Desert Scourge] Guardian of the Former Seas"
 			Tooltip: ""
 		}
 
@@ -29,8 +19,38 @@ Configs: {
 			Tooltip: ""
 		}
 
-		DesertScourge: {
-			Label: "[Desert Scourge] Guardian of the Former Seas"
+		HiveMind: {
+			Label: "[Hive Mind] Filthy Blood Dragon"
+			Tooltip: ""
+		}
+
+		Perforators: {
+			Label: "[Perforators] Filthy Blood Dragon"
+			Tooltip: ""
+		}
+
+		AquaticScourge: {
+			Label: "[Aquatic Scourge] Sea Breeze in the Wasteland"
+			Tooltip: ""
+		}
+
+		BrimstoneElemental: {
+			Label: "[Brimstone Elemental] Lullaby of Brimstone Flames"
+			Tooltip: ""
+		}
+
+		Cryogen: {
+			Label: "[Cryogen] Rural Polar City Esoteria"
+			Tooltip: ""
+		}
+
+		AnahitasLure: {
+			Label: "[???] Waters of Hokkai"
+			Tooltip: ""
+		}
+
+		AstrumAureus: {
+			Label: "[Astrum Aureus] Interstellar Stomper　～ G Normalize"
 			Tooltip: ""
 		}
 
@@ -46,6 +66,21 @@ Configs: {
 
 		StormWeaver: {
 			Label: "[Storm Weaver] Storm Weaver　～ Weaver of the Scourge"
+			Tooltip: ""
+		}
+
+		CeaselessVoid: {
+			Label: "[Ceaseless Void] Ceaseless Void　～ Void of the Scourge"
+			Tooltip: ""
+		}
+
+		DevourerofGodsPhase1: {
+			Label: "[Devourer of Gods (Phase 1)] Scourge of Universe"
+			Tooltip: ""
+		}
+
+		DevourerofGodsPhase2: {
+			Label: "[Devourer of Gods (Phase 2)] General Collapse　～ Universal Collapse"
 			Tooltip: ""
 		}
 
@@ -69,13 +104,38 @@ Configs: {
 			Tooltip: ""
 		}
 
+		AbyssLayer2: {
+			Label: "[Abyss Layer2] Beneath the Sulphurous Sea is the Abyssal Spirits"
+			Tooltip: ""
+		}
+
+		AbyssLayer3: {
+			Label: "[Abyss Layer3] Beneath the Sulphurous Sea is the Abyssal Spirits"
+			Tooltip: ""
+		}
+
+		AbyssLayer4: {
+			Label: "[Abyss Layer4] Beneath the Sulphurous Sea is the Abyssal Spirits"
+			Tooltip: ""
+		}
+
 		BrimstoneCrags: {
 			Label: "[Brimstone Crags] Azafure Fair"
 			Tooltip: ""
 		}
 
+		AstralInfection: {
+			Label: "[Astral Infection] Moonrise at the Astral Land"
+			Tooltip: ""
+		}
+
 		Blizzard: {
 			Label: "[Blizzard] Illusionary Harbor of Winter"
+			Tooltip: ""
+		}
+
+		BioLab: {
+			Label: "[Bio-center Labs] The Pure Fractal Energies"
 			Tooltip: ""
 		}
 

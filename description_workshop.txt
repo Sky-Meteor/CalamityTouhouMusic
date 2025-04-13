@@ -16,44 +16,87 @@
 这里是天琈。
 你可以在本音乐包的 [url=github.com/Sky-Meteor/CalamityTouhouMusic/tree/master/Assets/Music] 源文件 [/url] 直接获取所有音频。
 如果你是从B站关注我的，想要那些还没被音乐包收录的曲子，可以加上面的交流群，群里什么都有（
-P.S. 考虑到音乐包有外国友人体验，近期可能会将所有作品上传OneDrive和BandLab。
+P.S. 考虑到音乐包有外国友人体验，近期可能会将作品上传OneDrive和BandLab。
 
 [h1] 更新日志 [/h1]
+[h2] 0.3.0 [/h2]
+更新以下9首曲目：
+Filthy Blood Dragon（污秽血肉之龙）
+腐巢意志&血肉宿主主题曲
+原曲：
+[list]
+    [*] The Filthy Mind - DM DOKURO & SixteenInMono
+    [*] Blood Coagulant - DM DOKURO & SixteenInMono
+    [*] スモーキングドラゴン - ZUN
+[/list]
+
+无瑕的分形能量
+嘉登实验室主题曲
+原曲：
+[list]
+    [*] Engineer's Sanctum（Old ver.） - Heart Plus Up!
+[/list]
+
+硫海之下，渊海之灵
+深渊主题曲
+原曲：
+[list]
+    [*] Hadopelagic Pressure - DM DOKURO
+[/list]
+
+极地都市秘境
+极地之灵主题曲
+原曲：
+[list]
+    [*] Antarctic Reinforcement - DM DOKURO
+    [*] 魔界地方都市エソテリア - ZUN
+[/list]
+
+法界之水
+？？？主题曲
+原曲：
+[list]
+    [*] Siren's Call (Seafoam Mix) - DM DOKURO
+    [*] 法界の火 - ZUN
+[/list]
+
+月上星辉原
+星辉瘟疫主题曲
+原曲：
+[list]
+    [*] The Heaven-Sent Abomination - DM DOKURO
+    [*] 夜のデンデラ野を逝く - ZUN
+[/list]
+
+无尽虚空　～ Void of the Scourge
+无尽虚空主题曲
+原曲：
+[list]
+    [*] Servants of the Scourge(Type V) - DM DOKURO
+[/list]
+
+Scourge of Universe（寰宇灾劫）
+神明吞噬者（一阶段）主题曲
+原曲：
+[list]
+    [*] Scourge of The Universe - DM DOKURO
+[/list]
+
+普遍性崩坏　～ Universal Collapse
+神明吞噬者（二阶段）主题曲
+原曲：
+[list]
+    [*] UNIVERSAL COLLAPSE - DM DOKURO
+[/list]
+
 [h2] 0.2.0 [/h2]
 更新以下4首曲目：
-废土的海风
-渊海灾虫主题曲
-原曲：
 [list]
-    [*] Outcast of the Sulphurous Seas - DM DOKURO
-    [*] 風の循環　～ Wind Tour - ZUN
+    [*] 废土的海风
+    [*] 故乡之星锈蚀之海
+    [*] 故乡之锤锈蚀之罐
+    [*] 阿萨福勒集市
 [/list]
-
-故乡之星锈蚀之海
-硫磺海（白天）主题曲
-原曲：
-[list]
-    [*] wasteland - DM DOKURO
-    [*] 故郷の星が映る海 - ZUN
-[/list]
-
-故乡之锤锈蚀之罐
-硫磺海（夜晚）主题曲
-原曲：
-[list]
-    [*] wasteland - DM DOKURO
-    [*] 故郷の星が映る海 - ZUN
-    [*] Cerebrawl - Laura Shigihara
-[/list]
-
-阿萨福勒集市
-硫火之崖主题曲
-原曲：
-[list]
-    [*] The Step Below Hell - DM DOKURO
-    [*] 業火マントル - ZUN
-[/list]
-
 修改了部分之前的音乐。
 
 [h1] 曲目列表 [/h1]
@@ -72,6 +115,23 @@ P.S. 考虑到音乐包有外国友人体验，近期可能会将所有作品上
     [*] 燕石博物誌が連れてきた闇 - ZUN
 [/list]
 
+Filthy Blood Dragon（污秽血肉之龙）
+腐巢意志&血肉宿主主题曲
+原曲：
+[list]
+    [*] The Filthy Mind - DM DOKURO & SixteenInMono
+    [*] Blood Coagulant - DM DOKURO & SixteenInMono
+    [*] スモーキングドラゴン - ZUN
+[/list]
+
+极地都市秘境
+极地之灵主题曲
+原曲：
+[list]
+    [*] Antarctic Reinforcement - DM DOKURO
+    [*] 魔界地方都市エソテリア - ZUN
+[/list]
+
 硫火安魂曲
 硫磺火元素主题曲
 原曲：
@@ -86,6 +146,14 @@ P.S. 考虑到音乐包有外国友人体验，近期可能会将所有作品上
 [list]
     [*] Outcast of the Sulphurous Seas - DM DOKURO
     [*] 風の循環　～ Wind Tour - ZUN
+[/list]
+
+法界之水
+？？？主题曲
+原曲：
+[list]
+    [*] Siren's Call (Seafoam Mix) - DM DOKURO
+    [*] 法界の火 - ZUN
 [/list]
 
 星际践踏　～ G Normalize
@@ -121,12 +189,40 @@ P.S. 考虑到音乐包有外国友人体验，近期可能会将所有作品上
     [*] 有頂天変　～ Wonderful Heaven - ZUN
 [/list]
 
+无尽虚空　～ Void of the Scourge
+无尽虚空主题曲
+原曲：
+[list]
+    [*] Servants of the Scourge(Type V) - DM DOKURO
+[/list]
+
+Scourge of Universe（寰宇灾劫）
+神明吞噬者（一阶段）主题曲
+原曲：
+[list]
+    [*] Scourge of The Universe - DM DOKURO
+[/list]
+
+普遍性崩坏　～ Universal Collapse
+神明吞噬者（二阶段）主题曲
+原曲：
+[list]
+    [*] UNIVERSAL COLLAPSE - DM DOKURO
+[/list]
+
 日渐荒废的海洋遗址
 沉沦之海主题曲
 原曲：
 [list]
     [*] sanctuary - DM DOKURO
     [*] 廃れゆく産業遺構 - ZUN
+[/list]
+
+无瑕的分形能量
+嘉登实验室主题曲
+原曲：
+[list]
+    [*] Engineer's Sanctum（Old ver.） - Heart Plus Up!
 [/list]
 
 故乡之星锈蚀之海
@@ -146,12 +242,27 @@ P.S. 考虑到音乐包有外国友人体验，近期可能会将所有作品上
     [*] Cerebrawl - Laura Shigihara
 [/list]
 
+硫海之下，渊海之灵
+深渊主题曲
+原曲：
+[list]
+    [*] Hadopelagic Pressure - DM DOKURO
+[/list]
+
 阿萨福勒集市
 硫火之崖主题曲
 原曲：
 [list]
     [*] The Step Below Hell - DM DOKURO
     [*] 業火マントル - ZUN
+[/list]
+
+月上星辉原
+星辉瘟疫主题曲
+原曲：
+[list]
+    [*] The Heaven-Sent Abomination - DM DOKURO
+    [*] 夜のデンデラ野を逝く - ZUN
 [/list]
 
 幻想的冬之港湾
