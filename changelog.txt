@@ -1,2 +1,70 @@
-make it a client side mod
-allowed to extract resource with Extract button in Mods List
+﻿[h1] 更新日志 [/h1]
+[h2] 0.3.0 [/h2]
+更新以下9首曲目：
+Filthy Blood Dragon（污秽血肉之龙）
+腐巢意志&血肉宿主主题曲
+原曲：
+[list]
+    [*] The Filthy Mind - DM DOKURO & SixteenInMono
+    [*] Blood Coagulant - DM DOKURO & SixteenInMono
+    [*] スモーキングドラゴン - ZUN
+[/list]
+
+无瑕的分形能量
+嘉登实验室主题曲
+原曲：
+[list]
+    [*] Engineer's Sanctum（Old ver.） - Heart Plus Up!
+[/list]
+
+硫海之下，渊海之灵
+深渊主题曲
+原曲：
+[list]
+    [*] Hadopelagic Pressure - DM DOKURO
+[/list]
+
+极地都市秘境
+极地之灵主题曲
+原曲：
+[list]
+    [*] Antarctic Reinforcement - DM DOKURO
+    [*] 魔界地方都市エソテリア - ZUN
+[/list]
+
+法界之水
+？？？主题曲
+原曲：
+[list]
+    [*] Siren's Call (Seafoam Mix) - DM DOKURO
+    [*] 法界の火 - ZUN
+[/list]
+
+月上星辉原
+星辉瘟疫主题曲
+原曲：
+[list]
+    [*] The Heaven-Sent Abomination - DM DOKURO
+    [*] 夜のデンデラ野を逝く - ZUN
+[/list]
+
+无尽虚空　～ Void of the Scourge
+无尽虚空主题曲
+原曲：
+[list]
+    [*] Servants of the Scourge(Type V) - DM DOKURO
+[/list]
+
+Scourge of Universe（寰宇灾劫）
+神明吞噬者（一阶段）主题曲
+原曲：
+[list]
+    [*] Scourge of The Universe - DM DOKURO
+[/list]
+
+普遍性崩坏　～ Universal Collapse
+神明吞噬者（二阶段）主题曲
+原曲：
+[list]
+    [*] UNIVERSAL COLLAPSE - DM DOKURO
+[/list]
